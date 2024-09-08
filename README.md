@@ -1,5 +1,3 @@
-# WEC-Calendar-2024
-
 | **Event**                                    | **Date**                    | **Description**                                                                                                                                                       |
 |----------------------------------------------|-----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Linux Labs 2.0 - Linux installation drive    | 27th and 28th Aug            | A drive to help participants install Linux on their systems.                                                                                                           |
@@ -17,7 +15,9 @@
 | GDSC Intro Week                              | September 3rd week           | Google Developer Student Clubs Intro Week.                                                                                                                             |
 | Hackathons 101                               | September 3rd week           | A session on how to participate in hackathons.                                                                                                                         |
 | Introduction to Docker                       | September 3rd week           | Introduction to Docker before Silicon Maze event.                                                                                                                      |
+| Silicon Maze                                 | September End                | WEC's flagship technical event, hosted by the club as a whole.                                                                                                         |
 | PwL 2                                        | September 4th week           | Research discussion session led by Intelligence SIG members.                                                                                                           |
+| Recruitments                                 | October 1st week             | The annual WEC recruitment drive.                                                                                                                                      |
 | Offline Session 1                            | October 1st week             | First offline event session.                                                                                                                                           |
 | Open-Source Session                          | October 3rd to 4th week      | A session on how to contribute to open-source projects.                                                                                                                |
 | Greedy Algorithms                            | October 4th week             | A session on Greedy Algorithms in CP.                                                                                                                                  |
